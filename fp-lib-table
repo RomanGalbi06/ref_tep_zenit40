@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "referencny teplomer na dlzku")(type "KiCad")(uri "$(KIPRJMOD)/referencny teplomer na dlzku.pretty")(options "")(descr ""))
-)
