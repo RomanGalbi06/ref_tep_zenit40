@@ -1,1 +1,1 @@
-Zadanie zo 40. ročnýku súťaže ZENIT.
+Zadanie zo 40. ročníku súťaže ZENIT.
