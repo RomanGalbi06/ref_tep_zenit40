@@ -1,0 +1,23 @@
+﻿Č. riadka,Objednávací kód,V súlade s normou RoHS?,Vaše katalógové číslo,Poznámky,Množstvo,Číslo položky výrobcu,Názov výrobcu,Výrobca alebo popis,Dostupnosť,Jednotková cena (&euro;),Cena riadka (&euro;),Znížená cena (&euro;)
+1,2511331,RoHS: YES / FTALÁTY: YES,,,2.0,"MAX6071AAUT25+T",ANALOG DEVICES,"ANALOG DEVICES  Voltage Reference Series - Fixed, 2.5V reference, ± 1.5ppm/°C, SOT-23-6",2674,5.1200,10.24,,
+2,4020278,RoHS: YES / FTALÁTY: YES,,,2.0,"ADA4522-2ARZ-R7",ANALOG DEVICES,"ANALOG DEVICES  Operational Amplifier, 2 Channels, 2.7 MHz, 1.7 V/µs, 4.5V to 55V, ± 2.25V to ± 27.5V, NSOIC",1016,5.5800,11.16,,
+3,3870060,RoHS: YES / FTALÁTY: YES,,,5.0,"74HC4053D(BJ)",TOSHIBA,"TOSHIBA  Multiplexer, Analog, 2:1, 3 Circuit, 180 ohm, 2 V to 6 V, SOIC-16",6352,0.3010,1.51,,
+4,3870058,RoHS: YES / FTALÁTY: YES,,,5.0,"74HC4051D(BJ)",TOSHIBA,"TOSHIBA  Multiplexer, Analog, 8:1, 1 Circuit, 340 ohm, 2 V to 6 V, SOIC-16",1999,0.3040,1.52,,
+5,1605569,RoHS: YES / FTALÁTY: YES,,,1.0,"MCP3553-E/SN",MICROCHIP,"MICROCHIP  Analogue to Digital Converter, Delta-Sigma, 22 bit, 60 SPS, 1 Channels, Differential",837,3.3000,3.30,,
+6,3496760,RoHS: Y-EX / FTALÁTY: YES,,,20.0,"RT1206BRD071KL",YAGEO,"YAGEO  SMD Chip Resistor, 1 kohm, ± 0.1%, 250 mW, 1206 [3216 Metric], Thin Film, Precision",7956,0.1320,2.64,,
+7,3496756,RoHS: Y-EX / FTALÁTY: YES,,,50.0,"RT1206BRD0710KL",YAGEO,"YAGEO  SMD Chip Resistor, 10 kohm, ± 0.1%, 250 mW, 1206 [3216 Metric], Thin Film, Precision",30272,0.1320,6.60,,
+8,3496753,RoHS: Y-EX / FTALÁTY: YES,,,10.0,"RT1206BRB07100RL",YAGEO,"YAGEO  SMD Chip Resistor, 100 ohm, ± 0.1%, 250 mW, 1206 [3216 Metric], Thin Film, Precision",15,0.3200,3.20,,
+9,4553404,RoHS: YES / FTALÁTY: YES,,,25.0,"2N7002W",DIOTEC SEMICONDUCTOR,"DIOTEC SEMICONDUCTOR  Power MOSFET, N Channel, 60 V, 115 mA, 13.5 ohm, SOT-323, Surface Mount",1395,0.0773,1.93,,
+10,1560916,RoHS: YES / FTALÁTY: YES,,,4.0,"PTS060301B100RP100",VISHAY,"VISHAY  RTD Sensor, Chip, -55 °C, 175 °C, 100 ohm, Platinum",21143,1.2300,4.92,,
+11,2688552,RoHS: Y-EX / FTALÁTY: YES,,,3.0,"76-1500",MULTICOMP PRO,"MULTICOMP PRO  Banana Test Connector, Jack, Panel Mount, 25 A, 1 kV, Nickel Plated Contacts, Blue",44,3.5900,10.77,,
+12,2688551,RoHS: Y-EX / FTALÁTY: YES,,,3.0,"76-1678",MULTICOMP PRO,"MULTICOMP PRO  Banana Test Connector, Jack, Panel Mount, 25 A, 1 kV, Nickel Plated Contacts, Red",1059,3.6900,11.07,,
+13,2688553,RoHS: Y-EX / FTALÁTY: YES,,,2.0,"76-1502",MULTICOMP PRO,"MULTICOMP PRO  Banana Test Connector, Jack, Panel Mount, 25 A, 1 kV, Nickel Plated Contacts, Green",317,3.6900,7.38,,
+14,2460710,RoHS: YES / FTALÁTY: YES,,,4.0,"STP16CPC26MTR",STMICROELECTRONICS,"STMICROELECTRONICS  Led Driver, 16 Outputs, Constant Current, 3V-5.5V in, 30MHz switch, 20V/90mA out, SOIC-24",1660,1.4500,5.80,,
+15,4553369,RoHS: YES / FTALÁTY: YES,,,25.0,"BAV199",DIOTEC SEMICONDUCTOR,"DIOTEC SEMICONDUCTOR  Small Signal Diode, Dual Series, 85 V, 160 mA, 1.1 V, 3 µs, 4.5 A",Out of Stock,0.0661,1.65,,
+16,4264267,RoHS: YES / FTALÁTY: YES,,,10.0,"0ZCK0050AF2E",BEL FUSE,"BEL FUSE  Resettable Fuse, PPTC, 0805 (2012 Metric), 0ZCK Series, 9 VDC, 500 mA, 1 A, 0.1 s",6253,0.2950,2.95,,
+
+,,,,,,,Medzisúčet,&euro;86.64
+,,,,,,,Tovary spolu,&euro;86.64
+,,,,,,,Doručenie,&euro;0.00
+,,,,,,,DPH,&euro;19.93
+,,,,,,,Spolu k úhrade,&euro;106.57
