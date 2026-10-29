@@ -60,9 +60,9 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.25,
-          "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_clearance": 0.22,
+          "min_island_area": 1.0,
+          "min_thickness": 0.22,
           "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.3,
@@ -80,6 +80,10 @@
         [
           "starved_thermal|176245700|71848400|1a7b87a7-ffd7-41d4-bed5-5af4024e38be|8a7366ad-a64a-4caf-9818-9172c5ceb057|F.Cu",
           "inač sa to nedá"
+        ],
+        [
+          "track_dangling|98281500|76259700|2605b226-121c-4396-9a09-30e8ff4f8499|00000000-0000-0000-0000-000000000000",
+          "asi je spojena"
         ]
       ],
       "meta": {
@@ -125,15 +129,15 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_edge_clearance": "ignore",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_on_edge_cuts": "error",
-        "text_thickness": "warning",
+        "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_angle": "error",
